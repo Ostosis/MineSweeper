@@ -1,5 +1,7 @@
 public class Minesweeper {
-	private static final String LOSE_MSG = "\nAww. You lost.";
+    //random change - eric song	
+    
+    private static final String LOSE_MSG = "\nAww. You lost.";
 	private static final String WIN_MSG = "\nCongratulations! You won!";
 	private static final String BOARD_ERROR = "BOARD ERROR";
 //	private static final char FLAG = 'F';
